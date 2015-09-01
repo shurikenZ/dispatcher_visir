@@ -1,0 +1,17 @@
+{
+	"default": {
+		"id": "default",
+		"title": "Default",
+		"setup": "<save><instruments list=\"breadboard/breadboard.swf|multimeter/multimeter.swf|functiongenerator/functiongenerator.swf|oscilloscope/oscilloscope.swf|tripledc/tripledc.swf\"/> <circuit><circuitlist><component>R 100 78 39 0</component><component>R 470 152 39 0</component><component>R 1k 220 39 0</component><component>R 4.7k 288 39 0</component><component>R 10k 356 39 0</component><component>R 100k 424 39 0</component></circuitlist></circuit></save>"
+	},
+	"golab": {
+		"id": "golab",
+		"title": "Go-Lab Setup",
+		"setup": "<save><instruments list=\"breadboard/breadboard.swf|multimeter/multimeter.swf|functiongenerator/functiongenerator.swf|oscilloscope/oscilloscope.swf|tripledc/tripledc.swf\"/> <circuit><circuitlist><component>R 100 78 39 0</component><component>R 470 152 39 0</component><component>R 1k 220 39 0</component><component>R 4.7k 288 39 0</component><component>R 10k 356 39 0</component><component>R 100k 424 39 0</component></circuitlist></circuit></save>"
+	},
+	"wettbewerb": {
+		"id": "wettbewerb",
+		"title": "Young Citizen Science Award",
+		"setup": "<save><instruments list=\"breadboard/breadboard.swf|multimeter/multimeter.swf|functiongenerator/functiongenerator.swf|oscilloscope/oscilloscope.swf|tripledc/tripledc.swf\"/> <circuit><circuitlist><component>W 16711680 156 260 218.8 257.8 325 221</component><component>W 0 429 260 312.25 375.5 156 273</component><component>W 255 377 221 520 216.65 637 299</component><component>W 255 637 312 546 238.3 429 234</component><component>R 1k 351 234 0</component><component>R 2.7k 65 39 0</component><component>R 120k 65 65 0</component><component>R 4.7k 403 247 0</component></circuitlist></circuit></save>"
+	}
+}

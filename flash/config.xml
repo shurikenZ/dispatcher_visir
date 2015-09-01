@@ -1,0 +1,8 @@
+<configuration>
+	<!-- <hostname>localhost</hostname> -->
+	<!-- <port>2324</hostname> -->
+	<hostname>exp03.cti.ac.at</hostname>
+	<port>8080</port>
+	<http>1</http>
+	<httpurl>http://exp03.cti.ac.at:8080/measureserver</httpurl>
+</configuration>

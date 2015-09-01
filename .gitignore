@@ -1,0 +1,5 @@
+# The following will be ignored
+/vendor/
+/composer.lock
+/composer.phar
+/flash_client.rar
